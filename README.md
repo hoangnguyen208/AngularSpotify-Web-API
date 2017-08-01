@@ -26,3 +26,16 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Content
+
+The app allows users to search artists on US market and navigate to their albums. In addition, users can listen to tracks preview as well as to link to their own Spotify page. The completed product looks like images in the screenshot folder. 
+
+Note: to use the app smoothly, it must use the CORS enabling due to the browser security reason. For chrome, here are some CORS extension to use: 
+
+CORS Toggle
+https://chrome.google.com/webstore/detail/cors-toggle/omcncfnpmcabckcddookmnajignpffnh?hl=en
+
+Allow-Control-Allow-Origin: *
+https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en
+
