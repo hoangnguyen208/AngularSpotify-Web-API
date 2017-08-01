@@ -33,9 +33,9 @@ The app allows users to search artists on US market and navigate to their albums
 
 Note: to use the app smoothly, it must use the CORS enabling due to the browser security reason. For chrome, here are some CORS extension to use: 
 
-CORS Toggle
+CORS Toggle:
 https://chrome.google.com/webstore/detail/cors-toggle/omcncfnpmcabckcddookmnajignpffnh?hl=en
 
-Allow-Control-Allow-Origin: *
+Allow-Control-Allow-Origin: *:
 https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en
 
